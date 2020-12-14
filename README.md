@@ -1,9 +1,9 @@
 # Percentile Rank 
-Percentile Rank calculation using Python Pandas. 
+Using Python Pandas. 
 
 ### Optimized for Fantasy Golf Player Evaluation: ⛳
  - Includes dataset from 2020 Masters Tournament (scores.csv)
- - Program ranks the LOWEST score as the BEST.
+ - Ranks LOWEST score as the BEST.
  - See docstring to edit program for 'high score is best' scenario.
 
 ### Notes
