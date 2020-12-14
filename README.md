@@ -1,5 +1,5 @@
 # Percentile Rank 
-Percentile Rank Calculation using Python Pandas. 
+Percentile Rank calculation using Python Pandas. 
 
 ### Optimized for Fantasy Golf Player Evaluation: ⛳
  - Includes dataset from 2020 Masters Tournament (scores.csv)
